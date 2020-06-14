@@ -40,3 +40,49 @@ photos:
 		容器
 		外部化配置
 		托管的资源（Java Beans或其他资源）
+		
+## 4.IoC容器的实现
+
+### 主要实现
+Java SE:
+	Java Beans
+	Java ServiceLoader SPI
+	JNDI (Java Naming and Directory Interface)
+Java EE:
+	EJB (Enterprise Java Beans)
+	Servlet
+开源:
+	Apache Avalon (http://avalon.apache.org/closed.html)
+	PicoContainer (http://picoContainer.com/)
+	Google Guice (https://github.com/google/guice)
+	Spring Framework (https://spring.io/projects/spring-framework)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
